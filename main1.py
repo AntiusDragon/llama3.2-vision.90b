@@ -5,7 +5,7 @@ response = ollama.chat(
     messages=[{
         'role': 'user',
         'content': 'Šiame image1 yra Japoniškas raštas, Pateik orginalia teksta ir Lietuviu kalba.',
-        'images': ['image1.png']
+        'images': ['image1.jpg']
     }]
 )
 
