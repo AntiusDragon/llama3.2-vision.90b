@@ -57,3 +57,9 @@ uv sync
 
 # papildomas bandymas:
 uv add PyPDF2
+
+
+
+sounddevice
+SpeechRecognition
+pyaudio 
